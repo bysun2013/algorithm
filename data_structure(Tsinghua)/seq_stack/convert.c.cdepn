@@ -1,0 +1,8 @@
+F {convert} {convert.c:3}
+C {convert} {convert.c:19} {printf}
+C {convert} {convert.c:17} {printf}
+C {convert} {convert.c:16} {pop}
+C {convert} {convert.c:15} {isEmpty}
+C {convert} {convert.c:14} {printf}
+C {convert} {convert.c:10} {push}
+C {convert} {convert.c:7} {initStack}

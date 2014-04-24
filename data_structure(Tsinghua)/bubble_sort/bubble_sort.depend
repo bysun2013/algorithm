@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1395989841 source:d:\project\algorithm\data_structure(tsinghua)\bubble_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

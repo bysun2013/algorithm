@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1374405359 source:d:\project\data structure c\al_graph\al_graph.c
+	"al_graph.h"
+
+1374405267 d:\project\data structure c\al_graph\al_graph.h
+	<stdio.h>
+	<stdlib.h>
+	"../round_queue/round_queue.h"
+	"../BinaryTree/cs_tree.h"
+
+1374405751 source:d:\project\data structure c\al_graph\main.c
+	<stdio.h>
+	<stdlib.h>
+	"al_graph.h"
+
+1374374171 d:\project\data structure c\round_queue\round_queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1373616915 source:d:\project\data structure c\round_queue\round_queue.c
+	"round_queue.h"
+
+1374404935 d:\project\data structure c\binarytree\cs_tree.h
+

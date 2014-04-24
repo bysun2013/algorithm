@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1372906469 source:d:\project\data structure c\seq_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1372906177 d:\project\data structure c\seq_stack\stack.h
+	<stdlib.h>
+	<stdio.h>
+
+1373419311 source:d:\project\data structure c\seq_stack\stack.c
+	"stack.h"
+
+1372860833 source:d:\project\data structure c\seq_stack\convert.c
+	"stack.h"
+
+1372906624 source:d:\project\data structure c\seq_stack\match_kuohao.c
+	"stack.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1372945031 source:d:\project\data structure c\list_queue\list_queue.c
+	"list_queue.h"
+
+1372945124 d:\project\data structure c\list_queue\list_queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1372945092 source:d:\project\data structure c\list_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list_queue.h"
+

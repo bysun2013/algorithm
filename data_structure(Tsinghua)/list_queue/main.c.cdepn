@@ -1,0 +1,14 @@
+F {main} {main.c:5}
+C {main} {main.c:22} {destoyQueue}
+C {main} {main.c:20} {QueueLength}
+C {main} {main.c:20} {printf}
+C {main} {main.c:19} {isEmpty}
+C {main} {main.c:19} {printf}
+C {main} {main.c:18} {clearQueue}
+C {main} {main.c:17} {QueueLength}
+C {main} {main.c:17} {printf}
+C {main} {main.c:16} {QueueTrave}
+C {main} {main.c:15} {deQueue}
+C {main} {main.c:12} {QueueTrave}
+C {main} {main.c:11} {enQueue}
+C {main} {main.c:9} {initQueue}

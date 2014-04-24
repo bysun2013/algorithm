@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1396617672 source:d:\project\algorithm\code_interviews\04integer_tree\bs_tree.c
+	"bs_tree.h"
+	<stdlib.h>
+
+1396617545 d:\project\algorithm\code_interviews\04integer_tree\bs_tree.h
+	<stdio.h>
+
+1396619056 source:d:\project\algorithm\code_interviews\04integer_tree\list_stack.c
+	"list_stack.h"
+
+1396617031 d:\project\algorithm\code_interviews\04integer_tree\list_stack.h
+	<stdlib.h>
+	<stdio.h>
+
+1396619356 source:d:\project\algorithm\code_interviews\04integer_tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list_stack.h"
+	"bs_tree.h"
+

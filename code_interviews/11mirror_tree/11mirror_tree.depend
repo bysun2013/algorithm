@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1396765978 source:d:\project\algorithm\code_interviews\11mirror_tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"search_tree.h"
+	"stack.h"
+
+1396764960 d:\project\algorithm\code_interviews\11mirror_tree\search_tree.h
+	<stdio.h>
+	<stdlib.h>
+
+1396766040 d:\project\algorithm\code_interviews\11mirror_tree\stack.h
+	<stdlib.h>
+	<stdio.h>
+	"search_tree.h"
+
+1396764745 source:d:\project\algorithm\code_interviews\11mirror_tree\search_tree.c
+	"search_tree.h"
+
+1396766089 source:d:\project\algorithm\code_interviews\11mirror_tree\stack.c
+	"stack.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1397290360 source:d:\project\algorithm\code_interviews\17str_to_int\main.c
+	<stdio.h>
+	<stdlib.h>
+

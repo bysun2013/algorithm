@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1396710218 source:d:\project\algorithm\code_interviews\08addition_limited\main.c
+	<stdio.h>
+	<stdlib.h>
+

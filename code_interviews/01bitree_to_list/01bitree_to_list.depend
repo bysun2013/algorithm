@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1385812014 source:d:\project\algorithm\code_interviews\01bitree_to_list\bs_tree.c
+	"bs_tree.h"
+	<stdlib.h>
+
+1385810040 d:\project\algorithm\code_interviews\01bitree_to_list\bs_tree.h
+	<stdio.h>
+

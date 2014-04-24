@@ -1,0 +1,59 @@
+F {create_bitree} {binary_tree.c:4}
+C {create_bitree} {binary_tree.c:16} {create_bitree}
+C {create_bitree} {binary_tree.c:15} {create_bitree}
+C {create_bitree} {binary_tree.c:11} {malloc}
+C {create_bitree} {binary_tree.c:6} {scanf}
+F {preorder_traverse_recursion} {binary_tree.c:22}
+C {preorder_traverse_recursion} {binary_tree.c:27} {preorder_traverse_recursion}
+C {preorder_traverse_recursion} {binary_tree.c:26} {preorder_traverse_recursion}
+F {inorder_traverse_recursion} {binary_tree.c:35}
+C {inorder_traverse_recursion} {binary_tree.c:40} {inorder_traverse_recursion}
+C {inorder_traverse_recursion} {binary_tree.c:38} {inorder_traverse_recursion}
+F {postorder_traverse_recursion} {binary_tree.c:48}
+C {postorder_traverse_recursion} {binary_tree.c:53} {postorder_traverse_recursion}
+C {postorder_traverse_recursion} {binary_tree.c:52} {postorder_traverse_recursion}
+F {preorder_traverse} {binary_tree.c:64}
+C {preorder_traverse} {binary_tree.c:78} {destroyStack}
+C {preorder_traverse} {binary_tree.c:74} {push}
+C {preorder_traverse} {binary_tree.c:73} {push}
+C {preorder_traverse} {binary_tree.c:71} {pop}
+C {preorder_traverse} {binary_tree.c:69} {isEmpty_S}
+C {preorder_traverse} {binary_tree.c:68} {push}
+C {preorder_traverse} {binary_tree.c:67} {initStack}
+F {inorder_traverse} {binary_tree.c:81}
+C {inorder_traverse} {binary_tree.c:97} {destroyStack}
+C {inorder_traverse} {binary_tree.c:94} {push}
+C {inorder_traverse} {binary_tree.c:92} {pop}
+C {inorder_traverse} {binary_tree.c:90} {isEmpty_S}
+C {inorder_traverse} {binary_tree.c:89} {pop}
+C {inorder_traverse} {binary_tree.c:88} {push}
+C {inorder_traverse} {binary_tree.c:88} {getTop}
+C {inorder_traverse} {binary_tree.c:86} {isEmpty_S}
+C {inorder_traverse} {binary_tree.c:85} {push}
+C {inorder_traverse} {binary_tree.c:84} {initStack}
+F {inorder_traverse_other} {binary_tree.c:101}
+C {inorder_traverse_other} {binary_tree.c:116} {destroyStack}
+C {inorder_traverse_other} {binary_tree.c:110} {pop}
+C {inorder_traverse_other} {binary_tree.c:107} {push}
+C {inorder_traverse_other} {binary_tree.c:105} {isEmpty_S}
+C {inorder_traverse_other} {binary_tree.c:104} {initStack}
+F {postorder_traverse} {binary_tree.c:120}
+C {postorder_traverse} {binary_tree.c:144} {destroyStack}
+C {postorder_traverse} {binary_tree.c:139} {getTop}
+C {postorder_traverse} {binary_tree.c:137} {isEmpty_S}
+C {postorder_traverse} {binary_tree.c:134} {pop}
+C {postorder_traverse} {binary_tree.c:133} {isEmpty_S}
+C {postorder_traverse} {binary_tree.c:129} {push}
+C {postorder_traverse} {binary_tree.c:126} {isEmpty_S}
+C {postorder_traverse} {binary_tree.c:124} {initStack}
+F {levelorder_traverse} {binary_tree.c:148}
+C {levelorder_traverse} {binary_tree.c:162} {destoyQueue}
+C {levelorder_traverse} {binary_tree.c:159} {enQueue}
+C {levelorder_traverse} {binary_tree.c:158} {enQueue}
+C {levelorder_traverse} {binary_tree.c:156} {deQueue}
+C {levelorder_traverse} {binary_tree.c:155} {getHead}
+C {levelorder_traverse} {binary_tree.c:154} {isEmpty_Q}
+C {levelorder_traverse} {binary_tree.c:152} {enQueue}
+C {levelorder_traverse} {binary_tree.c:151} {initQueue}
+F {visit} {binary_tree.c:167}
+C {visit} {binary_tree.c:168} {printf}

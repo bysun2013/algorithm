@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1353751060 source:d:\project\data structure c\graph\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1374135365 source:d:\project\data structure c\graph\aml_graph.c
+	"aml_graph.h"
+
+1374135340 d:\project\data structure c\graph\aml_graph.h
+	<stdio.h>
+	<stdlib.h>
+

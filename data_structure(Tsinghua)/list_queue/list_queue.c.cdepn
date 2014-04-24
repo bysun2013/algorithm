@@ -1,0 +1,18 @@
+F {initQueue} {list_queue.c:3}
+C {initQueue} {list_queue.c:4} {malloc}
+F {destoyQueue} {list_queue.c:10}
+C {destoyQueue} {list_queue.c:12} {free}
+C {destoyQueue} {list_queue.c:11} {clearQueue}
+F {clearQueue} {list_queue.c:16}
+C {clearQueue} {list_queue.c:21} {free}
+F {isEmpty} {list_queue.c:27}
+F {QueueLength} {list_queue.c:30}
+F {getHead} {list_queue.c:41}
+F {enQueue} {list_queue.c:47}
+C {enQueue} {list_queue.c:48} {malloc}
+F {deQueue} {list_queue.c:57}
+C {deQueue} {list_queue.c:68} {free}
+F {QueueTrave} {list_queue.c:72}
+C {QueueTrave} {list_queue.c:81} {printf}
+C {QueueTrave} {list_queue.c:78} {printf}
+C {QueueTrave} {list_queue.c:76} {printf}

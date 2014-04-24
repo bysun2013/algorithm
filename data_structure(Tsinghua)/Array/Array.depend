@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1373288648 source:d:\project\data structure c\array\array.c
+	<stdlib.h>
+	"array.h"
+
+1373288557 d:\project\data structure c\array\array.h
+	<stdarg.h>
+	<stdio.h>
+
+1373288698 source:d:\project\data structure c\array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+

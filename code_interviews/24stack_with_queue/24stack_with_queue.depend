@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1373616916 source:d:\project\algorithm\data_structure(tsinghua)\list_queue\list_queue.c
+	"list_queue.h"
+
+1373616916 d:\project\algorithm\data_structure(tsinghua)\list_queue\list_queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1396403573 source:d:\project\algorithm\code_interviews\24stack_with_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"seq_stack\stack.h"
+
+1373616916 source:d:\project\algorithm\data_structure(tsinghua)\seq_stack\stack.c
+	"stack.h"
+
+1373616916 d:\project\algorithm\data_structure(tsinghua)\seq_stack\stack.h
+	<stdlib.h>
+	<stdio.h>
+

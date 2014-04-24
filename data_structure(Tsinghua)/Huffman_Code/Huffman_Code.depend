@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1374036234 source:d:\project\data structure c\huffman_code\huffman_code.c
+	"huffman_code.h"
+
+1374035023 d:\project\data structure c\huffman_code\huffman_code.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1373700466 source:d:\project\data structure c\huffman_code\main.c
+	<stdio.h>
+	<stdlib.h>
+	"huffman_code.h"
+

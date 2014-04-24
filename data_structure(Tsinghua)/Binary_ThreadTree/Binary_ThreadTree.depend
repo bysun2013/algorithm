@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1373589317 source:d:\project\data structure c\binary_threadtree\bithrtree.c
+	"BiThrTree.h"
+
+1373589245 d:\project\data structure c\binary_threadtree\bithrtree.h
+	<stdio.h>
+	<stdlib.h>
+
+1373589243 source:d:\project\data structure c\binary_threadtree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BiThrTree.h"
+

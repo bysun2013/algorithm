@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1396498798 source:d:\project\algorithm\code_interviews\02stack_min\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1396499675 d:\project\algorithm\code_interviews\02stack_min\stack.h
+	<stdlib.h>
+	<stdio.h>
+
+1396499384 source:d:\project\algorithm\code_interviews\02stack_min\stack.c
+	"stack.h"
+

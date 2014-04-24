@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1373279309 source:d:\project\data structure c\heap_string\hstring.c
+	"HString.h"
+
+1373035056 "
+
+1373116730 d:\project\data structure c\heap_string\hstring.h
+	<stdio.h>
+	<stdlib.h>
+
+1373035044 
+
+1373279335 source:d:\project\data structure c\heap_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HString.h"
+
+1373035086 source:/Document/Project/Data Structure C/Heap_String/HString.c
+	"HString.h"
+
+1373035044 /Document/Project/Data Structure C/Heap_String/HString.h
+	<stdio.h>
+	<stdlib.h>
+
+1373035056 source:/Document/Project/Data Structure C/Heap_String/main.c
+	<stdio.h>
+	<stdlib.h>
+	"HString.h"
+

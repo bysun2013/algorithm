@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1373616916 source:d:\project\algorithm\code_interviews\18queue_use_stack\stack.c
+	"stack.h"
+
+1397299058 d:\project\algorithm\code_interviews\18queue_use_stack\stack.h
+	<stdlib.h>
+	<stdio.h>
+
+1397302301 source:d:\project\algorithm\code_interviews\18queue_use_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+

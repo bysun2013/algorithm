@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1395985071 source:d:\project\algorithm\introduction_to_algorithm\binary_searchtree\main.c
+	<stdio.h>
+	<stdlib.h>
+

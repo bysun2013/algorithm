@@ -1,0 +1,16 @@
+F {initStack} {stack.c:3}
+C {initStack} {stack.c:4} {malloc}
+F {destroyStack} {stack.c:12}
+C {destroyStack} {stack.c:15} {free}
+F {clearStack} {stack.c:21}
+F {getLen} {stack.c:28}
+F {isEmpty_S} {stack.c:31}
+F {isFull_S} {stack.c:34}
+F {getTop} {stack.c:38}
+F {push} {stack.c:44}
+C {push} {stack.c:47} {realloc}
+F {pop} {stack.c:56}
+F {stackTraverse} {stack.c:63}
+C {stackTraverse} {stack.c:75} {printf}
+C {stackTraverse} {stack.c:73} {printf}
+C {stackTraverse} {stack.c:67} {printf}
