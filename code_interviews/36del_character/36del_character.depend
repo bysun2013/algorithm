@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1398406251 source:d:\project\github\algorithm\code_interviews\36del_character\main.c
+	<stdio.h>
+	<stdlib.h>
+
