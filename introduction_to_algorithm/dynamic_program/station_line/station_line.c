@@ -67,7 +67,19 @@ static void show_way()
 	}
 
 }
+static void print_station(int station, int line)
+{
+	if(station > 1){
+		print_station(station - 1, l[line][station]);
+	}
+	printf("line %d\tstation %d\n", line, station);
+}
 
+static void show_station()
+{
+	printf("\nThe fastest way of stations:\n");
+	print_station(s_len, l_final);
+}
 static void show_array(int a[][s_len+1], int m){
 	int i,j;
 	int n = s_len + 1;	
@@ -75,7 +87,7 @@ static void show_array(int a[][s_len+1], int m){
 	printf("\n");
 	for(i=0; i< m; i++){
 		for(j=0;j< n;j++){
-			printf("%d ", a[i][j]);
+			printf("%3d ", a[i][j]);
 		}
 		printf("\n");
 	}
@@ -108,5 +120,6 @@ int main()
 	printf("\nThe f_final is: %d\n", f_final);
 
 	show_way();
+	show_station();
 	return 0;
 }
