@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411458836 source:d:\project\github\algorithm\the_art_of_programming\string_permutation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
