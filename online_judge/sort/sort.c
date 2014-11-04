@@ -1,4 +1,7 @@
-
+/*
+ 快速排序 
+ */
+ 
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -11,7 +14,8 @@ static void quick_sort(int a[], int start, int end)
 	if(start >= end)
 		return;
 
-	temp = a[start];
+	/* 可以使用随机数，或者数组中间值，提高效率 */
+	temp = a[start]; 
 	while(i<j){
 		while(a[j] >= temp && i<j)
 			j--;

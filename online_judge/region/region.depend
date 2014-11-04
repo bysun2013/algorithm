@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1415074735 source:d:\project\github\algorithm\online_judge\region\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1415078084 source:d:\project\github\algorithm\online_judge\region\region.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+	<string.h>
+	<algorithm>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<map>
+
