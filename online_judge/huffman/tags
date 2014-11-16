@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+_cal_weight	huffman.c	/^static int _cal_weight(nodep np)$/;"	f	file:
+build_min_heap	huffman.c	/^static int build_min_heap(prio_queue *pq)$/;"	f	file:
+cal_weight	huffman.c	/^static int cal_weight(prio_queue *pq)$/;"	f	file:
+extract_min	huffman.c	/^static nodep extract_min(prio_queue *pq)$/;"	f	file:
+heap_insert	huffman.c	/^static void heap_insert(prio_queue *pq, nodep k)$/;"	f	file:
+huffman	huffman.c	/^static int huffman(prio_queue *pq, int n)$/;"	f	file:
+left	huffman.c	/^	struct node *left, *right;$/;"	m	struct:node	typeref:struct:node::node	file:
+main	huffman.c	/^int main()$/;"	f
+min_heapify	huffman.c	/^static int min_heapify(prio_queue *pq, int k)$/;"	f	file:
+node	huffman.c	/^typedef struct node$/;"	s	file:
+nodep	huffman.c	/^}*nodep;$/;"	t	typeref:struct:node	file:
+nodes	huffman.c	/^	nodep nodes[2002];$/;"	m	struct:priority_queue	file:
+prio_free_node	huffman.c	/^static void prio_free_node(nodep p)$/;"	f	file:
+prio_queue	huffman.c	/^}prio_queue;$/;"	t	typeref:struct:priority_queue	file:
+prio_queue_free	huffman.c	/^static void prio_queue_free(prio_queue *pq)$/;"	f	file:
+priority_queue	huffman.c	/^typedef struct priority_queue{$/;"	s	file:
+right	huffman.c	/^	struct node *left, *right;$/;"	m	struct:node	typeref:struct:node::	file:
+size	huffman.c	/^	int size;$/;"	m	struct:priority_queue	file:
+swap	huffman.c	/^static inline void swap(nodep a[], int i, int j)$/;"	f	file:
+weight	huffman.c	/^	int weight;$/;"	m	struct:node	file:
