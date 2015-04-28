@@ -66,15 +66,13 @@ int preorder_traverse(bitree t,int (*visit)(TElemType e))
     bitnode *bn;
     initStack(&s);
     push(&s,t);
-    while(!isEmpty_S(s))
-    {
-        while(pop(&s,&bn)&&bn){
-            visit(bn->data);
-            if(bn->rchild) push(&s,bn->rchild);
-            push(&s,bn->lchild);
-        }
 
-    }
+      while(!isEmpty_S(s) && pop(&s,&bn)&&bn){
+          visit(bn->data);
+          if(bn->rchild) push(&s,bn->rchild);
+         if(bn->lchild)	 push(&s,bn->lchild);
+      }
+
     destroyStack(&s);
     return 1;
 }
