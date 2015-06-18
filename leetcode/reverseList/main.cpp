@@ -19,7 +19,12 @@ struct ListNode {
 
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
+    ListNode* reverseList(ListNode* head){
+        return reverseList_recursively(head);
+    }
+
+private:
+    ListNode* reverseList_iteratively(ListNode* head) {
         if(!head)
             return NULL;
         ListNode *pre =NULL, *cur = head;
@@ -30,8 +35,18 @@ public:
             pre = cur;
             cur = next;
         }
-
         return pre;
+    }
+
+    ListNode* reverseList_recursively(ListNode* head){
+        if(!head || !head->next)
+            return head;
+        ListNode *final_head = reverseList_recursively(head->next);
+
+        head->next->next = head;
+        head->next = NULL;
+
+        return final_head;
     }
 };
 
